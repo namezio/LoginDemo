@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/bin/Debug/net6.0/DemoLogin.Database.deps.json
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/bin/Debug/net6.0/DemoLogin.Database.dll
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/bin/Debug/net6.0/DemoLogin.Database.pdb
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.AssemblyInfo.cs
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.dll
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/refint/DemoLogin.Database.dll
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.pdb
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/ref/DemoLogin.Database.dll
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/bin/Debug/net6.0/DemoLogin.Database.runtimeconfig.json
+/Users/macbook/Desktop/Codes/LoginDemo/DemoLogin.Database/obj/Debug/net6.0/DemoLogin.Database.genruntimeconfig.cache

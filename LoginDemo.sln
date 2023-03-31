@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLogin", "DemoLogin\DemoLogin.csproj", "{A45FA634-793A-4399-95D1-0C934BAC2F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLogin.Database", "DemoLogin.Database\DemoLogin.Database.csproj", "{672ABCA1-6525-4D2C-92C0-101590BA3377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45FA634-793A-4399-95D1-0C934BAC2F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45FA634-793A-4399-95D1-0C934BAC2F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45FA634-793A-4399-95D1-0C934BAC2F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45FA634-793A-4399-95D1-0C934BAC2F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672ABCA1-6525-4D2C-92C0-101590BA3377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672ABCA1-6525-4D2C-92C0-101590BA3377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672ABCA1-6525-4D2C-92C0-101590BA3377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672ABCA1-6525-4D2C-92C0-101590BA3377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
